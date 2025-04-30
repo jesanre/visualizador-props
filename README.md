@@ -40,9 +40,7 @@ Visualización clara y responsiva de los datos.
 🖼️ Capturas de pantalla
 
 Visualización de datos con props
-| Vista del componente |
-|:--:|
-| ![Captura del componente](cap000.png)
+ ![Captura del componente](cap000.png)
 ![Captura del componente](./cap001.png)
 ![Captura del componente](./cap002.png) |
 
