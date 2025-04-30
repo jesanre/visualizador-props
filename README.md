@@ -17,15 +17,16 @@ visualizador-props/ ├── public/ ├── src/ │ ├── App.js │ �
    ```bash
    git clone https://github.com/tu-usuario/visualizador-props.git
    cd visualizador-props
-bash```
+
 2. Instala las dependencias:
-```bash
-npm install
-bash```
+   ```bash
+   npm install
+
+
 3. Ejecuta el proyecto en modo desarrollo:
-```bash
-npm start
-bash```
+   ```bash
+   npm start
+
 
 El navegador se abrirá automáticamente en http://localhost:3000.
 
@@ -41,9 +42,9 @@ Visualización clara y responsiva de los datos.
 🖼️ Capturas de pantalla
 
 Visualización de datos con props
- ![Vista previa de la app](cap002.png)
+ ![Vista previa de la app](cap000.png)
 ![Captura del componente](./cap001.png)
-![Captura del componente](./cap002.png) |
+![Captura del componente](./cap002.png)
 
 
 📚 Aprendizajes
