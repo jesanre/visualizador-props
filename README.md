@@ -26,6 +26,7 @@ bash```
 ```bash
 npm start
 bash```
+
 El navegador se abrirá automáticamente en http://localhost:3000.
 
 ✨ Funcionalidades
