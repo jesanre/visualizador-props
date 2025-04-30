@@ -15,7 +15,7 @@ visualizador-props/ ├── public/ ├── src/ │ ├── App.js │ �
 
 1. Clona el repositorio o descarga el código:
    ```bash
-   git clone https://github.com/tu-usuario/visualizador-props.git
+   git clone https://github.com/jesanre/visualizador-props.git
    cd visualizador-props
 
 2. Instala las dependencias:
