@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Visualizador de Props en React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es un ejercicio básico de React que muestra cómo crear un componente funcional que recibe y muestra información utilizando **props**.
 
-## Available Scripts
+## 🧩 Descripción
 
-In the project directory, you can run:
+El componente `VisualizadorProps` recibe datos a través de props (por ejemplo, `nombre`, `fecha`, `descripción`) y los muestra en pantalla de forma clara y estructurada. Es una forma simple pero efectiva de aprender el manejo de props en React y entender cómo se comunican los componentes.
 
-### `npm start`
+## 📦 Estructura del proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+visualizador-props/ ├── public/ ├── src/ │ ├── App.js │ ├── VisualizadorProps.js │ ├── VisualizadorProps.css │ └── index.js ├── README.md └── package.json
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🚀 ¿Cómo ejecutar este proyecto?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clona el repositorio o descarga el código:
+   ```bash
+   git clone https://github.com/tu-usuario/visualizador-props.git
+   cd visualizador-props
+bash```
+2. Instala las dependencias:
+```bash
+npm install
+bash```
+3. Ejecuta el proyecto en modo desarrollo:
+```bash
+npm start
+bash```
+El navegador se abrirá automáticamente en http://localhost:3000.
 
-### `npm run build`
+✨ Funcionalidades
+Componente funcional con props.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Uso de desestructuración para acceder a los datos.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Estilos aplicados con CSS.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Visualización clara y responsiva de los datos.
 
-### `npm run eject`
+🖼️ Capturas de pantalla
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Visualización de datos con props
+| Vista del componente |
+|:--:|
+| ![Captura del componente](./cap000.png)
+![Captura del componente](./cap001.png)
+![Captura del componente](./cap002.png) |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📚 Aprendizajes
+Crear componentes funcionales en React.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Uso y manejo de props.
 
-## Learn More
+Aplicación de estilos básicos con CSS.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Organización del código en un proyecto React.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🛠️ Tecnologías utilizadas
+React
 
-### Code Splitting
+JavaScript (ES6+)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+CSS
 
-### Analyzing the Bundle Size
+📌 Autor
+Hecho con 💻 por jesanre
+https://github.com/jesanre
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

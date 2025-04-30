@@ -1,0 +1,19 @@
+/* src/VisualizadorProps.css */
+.contenedor-props {
+  border: 2px solid #4caf50;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.contenedor-props ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contenedor-props li {
+  margin-bottom: 10px;
+}
