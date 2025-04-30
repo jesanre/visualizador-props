@@ -48,6 +48,7 @@ Visualización de datos con props
 
 
 📚 Aprendizajes
+
 Crear componentes funcionales en React.
 
 Uso y manejo de props.
@@ -57,6 +58,7 @@ Aplicación de estilos básicos con CSS.
 Organización del código en un proyecto React.
 
 🛠️ Tecnologías utilizadas
+
 React
 
 JavaScript (ES6+)
@@ -64,7 +66,9 @@ JavaScript (ES6+)
 CSS
 
 📌 Autor
+
 Hecho con 💻 por jesanre
+
 https://github.com/jesanre
 
 
